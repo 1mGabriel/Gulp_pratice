@@ -1,0 +1,8 @@
+@use './varaiveis.scss';
+
+body{
+    background-color: varaiveis.$corPrincipal;
+    img{
+        height: 200px;
+    }
+}
